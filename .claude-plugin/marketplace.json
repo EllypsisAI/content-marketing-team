@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "content-marketing-team",
-      "source": ".",
+      "source": "./",
       "description": "LinkedIn-first content marketing system. Captures ideas, drafts social-native content, manages a content calendar, and learns from every review cycle. Human-in-the-loop — nothing publishes without approval.",
       "version": "0.1.0",
       "author": {
