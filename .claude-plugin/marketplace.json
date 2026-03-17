@@ -1,0 +1,23 @@
+{
+  "name": "content-marketing-team",
+  "owner": {
+    "name": "Ellypsis",
+    "email": "sewar@ellypsis.dk"
+  },
+  "metadata": {
+    "description": "Claude plugin for content marketing teams — topic discovery, social drafting, editorial calendar, and review cycles.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "content-marketing-team",
+      "source": ".",
+      "description": "LinkedIn-first content marketing system. Captures ideas, drafts social-native content, manages a content calendar, and learns from every review cycle. Human-in-the-loop — nothing publishes without approval.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ellypsis"
+      },
+      "keywords": ["linkedin", "content-marketing", "social", "editorial-calendar", "ai-consulting"]
+    }
+  ]
+}
