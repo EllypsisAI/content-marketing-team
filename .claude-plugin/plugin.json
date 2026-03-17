@@ -1,0 +1,9 @@
+{
+  "name": "content-marketing-team",
+  "version": "0.1.0",
+  "description": "LinkedIn-first content marketing system for Ellypsis. Captures ideas, drafts social-native content, manages a content calendar, and learns from every review cycle. Human-in-the-loop — nothing publishes without approval.",
+  "author": {
+    "name": "Sewar Sidou, Ellypsis"
+  },
+  "keywords": ["linkedin", "content-marketing", "social", "danish", "ai-consulting"]
+}
